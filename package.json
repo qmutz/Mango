@@ -20,7 +20,7 @@
     "url": "https://github.com/egrcc/Mango.git"
   },
   "dependencies": {
-		"marked": "^0.3.3",
+		"marked": "^0.8.2",
 		"bootbox": "~4.4.0",
 		"request": "~2.74.0",
 		"bootstrap": "3.3.0",
